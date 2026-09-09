@@ -1,4 +1,4 @@
-# C Text-Based Social Network
+# Text-Based Social Network
 A command-line social networking application written in C. The project demonstrates core data structures and systems programming concepts, including linked lists, dynamic memory allocation, file I/O, string manipulation, and modular program design.
 
 ## Features
