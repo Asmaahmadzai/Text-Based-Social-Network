@@ -47,3 +47,16 @@ The project includes functions for:
 - Displaying posts incrementally
 - Reading user information from a CSV file
 - Releasing dynamically allocated memory before program termination
+
+Example Menu
+***********************************************
+MAIN MENU:
+***********************************************
+1. Register a new user
+2. Manage a user's profile (change password)
+3. Manage a user's posts (add/remove)
+4. Manage a user's friends (add/remove)
+5. Display a user's posts
+6. Exit
+Enter your choice:
+
